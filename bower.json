@@ -1,0 +1,21 @@
+{
+  "name": "genders",
+  "version": "0.0.1",
+  "description": "A json file with genders in it.",
+  "main": "genders.json",
+  "keywords": [
+    "gender"
+  ],
+  "authors": [
+    "Charlie Wagner <me@satsuki.tv>"
+  ],
+  "license": "MIT",
+  "homepage": "http://github.com/satsukitv/genders",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
