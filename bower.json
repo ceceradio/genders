@@ -1,7 +1,7 @@
 {
   "name": "genders",
-  "version": "0.0.1",
-  "description": "A json file with genders in it.",
+  "version": "0.0.2",
+  "description": "A json file with genders in it. Also, an angular service to provide genders to angular components.",
   "main": "genders.json",
   "keywords": [
     "gender"
