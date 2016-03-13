@@ -3,6 +3,7 @@
   .service('genders', function() {
     return [
       "Agender",
+      "Ambigender",
       "Androgyne",
       "Androgynous",
       "Bigender",
