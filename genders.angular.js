@@ -21,6 +21,7 @@
       "Demiguy",
       "Demiwoman",
       "Female",
+      "Femboy",
       "Feminine",
       "Femme",
       "Genderqueer",
